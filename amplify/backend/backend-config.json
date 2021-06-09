@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "s30f2a70cd": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
